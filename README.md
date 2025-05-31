@@ -6,7 +6,6 @@
 ![Website Status](https://img.shields.io/badge/🌐_Live_Website-thyroidgoiteruae.com-2c5aa0?style=for-the-badge&logoColor=white)
 ![Project Status](https://img.shields.io/badge/Status-✅_Completed_&_Live-27ae60?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/🇺🇸_EN_|_🇸🇦_AR-Bilingual_Support-f39c12?style=for-the-badge)
-![Performance](https://img.shields.io/badge/Performance-95+-4CAF50?style=for-the-badge&logo=speedtest)
 
 ### 🔗 **[thyroidgoiteruae.com](https://www.thyroidgoiteruae.com/)**
 
@@ -22,13 +21,13 @@
 <tr>
 <td width="50%" align="center">
 <h3>🌍 Arabic Version (RTL)</h3>
-<img src="Image 1" alt="Arabic version of the thyroid center website showing RTL layout, Arabic text, and medical facility background" width="100%"/>
+<img src="./s1.png" alt="Arabic version of the thyroid center website showing RTL layout, Arabic text, and medical facility background" width="100%"/>
 <br/>
 <em>Right-to-left layout with Arabic typography and cultural adaptation</em>
 </td>
 <td width="50%" align="center">
 <h3>🇺🇸 English Version (LTR)</h3>
-<img src="Image 2" alt="English version of the thyroid center website showing professional medical design and non-surgical treatment information" width="100%"/>
+<img src="./s2.png" alt="English version of the thyroid center website showing professional medical design and non-surgical treatment information" width="100%"/>
 <br/>
 <em>Clean English interface with professional medical aesthetics</em>
 </td>
