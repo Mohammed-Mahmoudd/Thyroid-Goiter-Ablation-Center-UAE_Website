@@ -1,5 +1,4 @@
-# 🏥 Dr. Jamal Aldeen Alkoteesh - Thyroid Center UAE
-## Complete Medical Website Development | Project Showcase
+# Dr. Jamal Aldeen Alkoteesh - Thyroid Center UAE Website
 
 <div align="center">
 
