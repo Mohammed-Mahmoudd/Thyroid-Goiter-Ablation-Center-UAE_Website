@@ -21,13 +21,13 @@
 <tr>
 <td width="50%" align="center">
 <h3>🌍 Arabic Version (RTL)</h3>
-<img src="./s1.png" alt="Arabic version of the thyroid center website showing RTL layout, Arabic text, and medical facility background" width="100%"/>
+<img src="./s2.png" alt="Arabic version of the thyroid center website showing RTL layout, Arabic text, and medical facility background" width="100%"/>
 <br/>
 <em>Right-to-left layout with Arabic typography and cultural adaptation</em>
 </td>
 <td width="50%" align="center">
 <h3>🇺🇸 English Version (LTR)</h3>
-<img src="./s2.png" alt="English version of the thyroid center website showing professional medical design and non-surgical treatment information" width="100%"/>
+<img src="./s1.png" alt="English version of the thyroid center website showing professional medical design and non-surgical treatment information" width="100%"/>
 <br/>
 <em>Clean English interface with professional medical aesthetics</em>
 </td>
