@@ -63,13 +63,13 @@
 
 ## 💻 **Technical Excellence & Skills Demonstrated**
 
-<div align="center">
+<div >
 
 ### 🚀 **Frontend Development Mastery**
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="" width="25%">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <br/><strong>Semantic HTML5</strong>
 <br/>• Medical content structure
@@ -77,7 +77,7 @@
 <br/>• Accessibility compliance (WCAG 2.1)
 <br/>• Schema.org medical markup
 </td>
-<td align="center" width="25%">
+<td align="" width="25%">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 <br/><strong>Advanced CSS3</strong>
 <br/>• CSS Grid & Flexbox mastery
@@ -85,7 +85,7 @@
 <br/>• RTL/LTR responsive design
 <br/>• Modern visual effects
 </td>
-<td align="center" width="25%">
+<td align="" width="25%">
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <br/><strong>Modern JavaScript</strong>
 <br/>• ES6+ implementation
@@ -93,7 +93,7 @@
 <br/>• Event handling
 <br/>• Async/await patterns
 </td>
-<td align="center" width="25%">
+<td align="" width="25%">
 <img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
 <br/><strong>Interactive Features</strong>
 <br/>• Smooth scrolling
@@ -108,7 +108,7 @@
 
 ### 🎨 **Design & User Experience Excellence**
 
-<div align="center">
+<div align="">
 
 | 📱 **Responsive Design** | 🌍 **Internationalization** | ⚡ **Performance** | 🎭 **UI/UX Design** |
 |:------------------------:|:---------------------------:|:------------------:|:-------------------:|
