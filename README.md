@@ -218,7 +218,7 @@ graph TB
 </div>
 
 
-## 🌟 **Specialized Medical Web Development**
+## 🌟 **Specialized Web Development**
 
 <div align="center">
 
