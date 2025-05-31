@@ -265,16 +265,9 @@ graph TB
 
 ---
 
-## 🔥 **Ready to Create Your Next Project?**
 
-<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/View_More-Projects-2c5aa0?style=for-the-badge&logo=portfolio&logoColor=white)](https://your-portfolio.com)
-[![Contact](https://img.shields.io/badge/Let's_Collaborate-Contact_Me-FF6B35?style=for-the-badge&logo=handshake&logoColor=white)](mailto:your-email@example.com)
 
-**🌟 Specialized in Medical Web Development | 🎨 Modern Design | ⚡ High Performance | 🌍 Multilingual Solutions**
-
-</div>
 
 ---
 
